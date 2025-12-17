@@ -3,3 +3,5 @@ psutil
 qt-material
 qtawesome
 pyinstaller
+pywin32
+Pillow
